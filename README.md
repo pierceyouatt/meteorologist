@@ -6,7 +6,7 @@
 
 In this project, you will practice working with Arrays and Hashes by pulling data from external services like Google Maps. You will build an application that, given a street address, tells the user the weather forecast.
 
-#### [Here is a functional version of the app -- this is your target.](https://meteorologist.herokuapp.com/)
+### [Here is a functional version of the app -- this is your target.](https://meteorologist.herokuapp.com/)
 
 In order to achieve this, our first task will be to exchange a **street address** for a **latitude/longitude pair** using Google's Geocoding API.
 
